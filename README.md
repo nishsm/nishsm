@@ -45,7 +45,7 @@ Most of my professional work lives in private codebases. These are smaller thing
 |---|---|
 | [**⛳ SwingTrace**](https://github.com/nishsm/swingtrace) | Open-source golf swing tracer. Tracks the club through motion blur in 93% of frames on unseen phone videos. [Try it in Colab](https://colab.research.google.com/github/nishsm/swingtrace/blob/main/notebooks/swingtrace_quickstart.ipynb) · [Model](https://huggingface.co/nishsm/swingtrace) |
 | [**Autonomous SOC agent**](https://github.com/nishsm/autonomous-soc-agent) | Two LangGraph agents for security operations. One flags anomalous network traffic, the other drafts a recovery plan using a local LLM and a playbook knowledge base. |
-| [**BBB-GCN**](https://github.com/nishsm/bbb-gcn) | Reproducible version of my IEEE paper: will this drug reach the brain? Graph neural network on 7K+ molecules. |
+| [**🧠 BBBNet**](https://github.com/nishsm/bbbnet) | Reproducible version of my IEEE paper: will this drug reach the brain? Graph neural network on 7K+ molecules. |
 | [**golf-ball-tracking**](https://github.com/nishsm/golf-ball-tracking) | Write-up of the "great validation score, useless in production" lesson, and the YOLO + SAM 2 tracker built after it. |
 
 ---
