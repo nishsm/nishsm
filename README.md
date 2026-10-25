@@ -1,4 +1,4 @@
-### Hi, I'm Nish 👋
+### Hi, I'm Nishanth 👋
 
 **I build AI systems that people actually end up using.**
 
